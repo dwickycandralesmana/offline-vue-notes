@@ -7,9 +7,13 @@
     "build": "vue-cli-service build"
   },
   "dependencies": {
+    "@tiptap/core": "^2.0.0-beta.174",
+    "@tiptap/starter-kit": "^2.0.0-beta.183",
+    "@tiptap/vue-3": "^2.0.0-beta.90",
     "vue": "^3.2.13"
   },
   "devDependencies": {
+    "@tailwindcss/typography": "^0.5.2",
     "@vue/cli-service": "~5.0.0-rc.3",
     "autoprefixer": "^10.4.2",
     "postcss": "^8.4.6",
